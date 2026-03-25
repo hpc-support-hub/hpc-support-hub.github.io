@@ -4,12 +4,13 @@
 ##  Information for Participants
 
 ### When and where
-TBA
+- Time: Thursday, June 25, 2026 2:15 PM to 3:15 PM CEST
+- Location: Hall F - 2nd Floor
 
 ### What this session is about
 HPC user support is becoming more important than ever. As systems grow more complex and AI workflows become part of everyday HPC use, support teams are under increasing pressure to help larger and more diverse user communities effectively.
 
-This Birds of a Feather (BoF) session brings together:
+This Birds of a Feather (BoF) session aims to bring together:
 - HPC user support practitioners
 - infrastructure providers
 - researchers and HPC users
@@ -26,12 +27,6 @@ This session is a chance to:
 - help shape future community-driven support practices
 
 ### Who should attend?
-You are welcome if you are:
-- involved in HPC user support
-- working at an HPC centre or industrial site
-- supporting users, training users, or developing support workflows
-- an HPC user who wants to share experiences and expectations
-
 Whether you work in public research or industry, and whether you provide support or receive it, we’d be happy to have you join. This session is about learning from each other and building a more sustainable future for HPC user support together.
 
 ## How to participate
@@ -77,5 +72,13 @@ We aim to leave the session with:
 - a starting point for a broader international HPC user support community
 
 ## Organisers and speakers
-
-TBA
+- Thomas Breuer, Jülich Supercomputing Centre
+- Ilya Zhukov, Jülich Supercomputing Centre
+- Dominik Brands, University of Duisburg-Essen
+- Helena Vela Beltran, Do IT Now (Spain)
+- Laura Bellentani, CINECA
+- Marc-André Hermanns, IT Center, RWTH Aachen University
+- Alberto Lanzanova, CSC – IT Center for Science
+- Gaurav Saxena, Barcelona Supercomputing Center
+- Emir Imamagić, University of Zagreb
+- Virvatuli Uusimäki, CSC – IT Center for Science
