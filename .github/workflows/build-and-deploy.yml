@@ -3,9 +3,12 @@ name: Build and Deploy MD
 on:
   push:
     paths:
-      - isc26_bof_user_support.md   # triggers only when markdown files change
+      - isc26_bof_user_support.md   # triggers only when this file modified
     branches:
-      - main      # or your default branch
+      - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
   contents: read
