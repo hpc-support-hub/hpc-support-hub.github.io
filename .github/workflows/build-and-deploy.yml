@@ -3,7 +3,7 @@ name: Build and Deploy MD
 on:
   push:
     paths:
-      - '**.md'   # triggers only when markdown files change
+      - isc26_bof_user_support.md   # triggers only when markdown files change
     branches:
       - main      # or your default branch
 
@@ -26,7 +26,7 @@ jobs:
           node-version: 20
 
       - name: Generate HTML from Markdown
-        run: npx --yes single-page-markdown-website '*.md' --output docs
+        run: npx --yes single-page-markdown-website isc26_bof_user_support.md --output docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
