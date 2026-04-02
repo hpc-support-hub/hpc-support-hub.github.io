@@ -80,5 +80,5 @@ We aim to leave the session with:
 - Marc-André Hermanns, IT Center, RWTH Aachen University
 - Alberto Lanzanova, CSC – IT Center for Science
 - Gaurav Saxena, Barcelona Supercomputing Center
-- Emir Imamagić, University of Zagreb
+- Emir Imamagić, University of Zagreb University Computing Centre (SRCE)
 - Virvatuli Uusimäki, CSC – IT Center for Science
