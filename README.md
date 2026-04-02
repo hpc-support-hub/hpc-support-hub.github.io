@@ -6,7 +6,7 @@ Based on this [repository](https://github.com/yuanqing/single-page-markdown-webs
 You can create webpage locally. It requires ```Node.js```.
 
 - Execute
-```$ npx --yes -- single-page-markdown-website '*.md' --open```
+```$ npx --yes -- single-page-markdown-website '*.md' --open --output docs```
 - Copy ```index.html``` to ```docs``` directory on the github 
 - Too enable GitHub pages
     - Go to repo -> Settings -> Pages -> Build and deployment -> Deploy from branch -> Selecs ```docs``` directory -> Save
