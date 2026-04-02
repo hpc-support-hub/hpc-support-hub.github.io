@@ -4,7 +4,7 @@
 ##  Information for Participants
 
 ### When and where
-- *Time:* Thursday, June 25, 2026 2:15 PM to 3:15 PM CEST
+- **Time:** Thursday, June 25, 2026 2:15 PM to 3:15 PM CEST
 - *Location:* Hall F - 2nd Floor
 
 ### What this session is about
