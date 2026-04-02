@@ -5,7 +5,7 @@
 
 ### When and where
 - **Time:** Thursday, June 25, 2026 2:15 PM to 3:15 PM CEST
-- **Location:** Hall F - 2nd Floor
+- **Location:** Hall F, 2nd Floor
 
 ### What this session is about
 HPC user support is becoming more important than ever. As systems grow more complex and AI workflows become part of everyday HPC use, support teams are under increasing pressure to help larger and more diverse user communities effectively.
