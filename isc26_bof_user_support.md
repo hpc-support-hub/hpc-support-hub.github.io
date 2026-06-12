@@ -67,7 +67,7 @@ Tables will include:
 We aim to leave the session with:
 - a shortlist of promising ideas and shared practices
 - documented insights from the discussions
-- - a starting point for a broader international HPC user support community
+- a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
 ## Organisers and speakers
