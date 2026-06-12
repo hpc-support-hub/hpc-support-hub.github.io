@@ -27,13 +27,13 @@ This session is a chance to:
 - help shape future community-driven support practices
 
 ### Who should attend?
-Whether you work in public research or industry, and whether you provide support or receive it, we’d be happy to have you join. This session is about learning from each other and building a more sustainable future for HPC user support together.
+Whether you work in public research or industry, and whether you provide support or receive it, we'd be happy to have you join. This session is about learning from each other and building a more sustainable future for HPC user support together.
 
 ## How to participate
 Please come ready to:
 - share examples from your own environment
 - discuss challenges openly
-- listen to others’ approaches
+- listen to others' approaches
 - help identify practical ideas for follow-up after the conference
 
 No preparation is required.
@@ -59,8 +59,7 @@ This is an interactive session with minimal formal presentation.
 
 ### Session setup
 Tables will include:
-- a discussion poster
-- a simple note template
+- a discussion handouts
 - markers
 - voting stickers
 
@@ -68,8 +67,8 @@ Tables will include:
 We aim to leave the session with:
 - a shortlist of promising ideas and shared practices
 - documented insights from the discussions
+- - a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
-- a starting point for a broader international HPC user support community
 
 ## Organisers and speakers
 - Thomas Breuer, Jülich Supercomputing Centre
