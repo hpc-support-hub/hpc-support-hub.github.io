@@ -66,14 +66,14 @@ We aim to leave the session with:
 - a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
-## Participate in the [initial survey](https://go.fzj.de/Isc26_support_bof_initial_survey)
+## Participate in the [initial survey](https://go.fzj.de/isc26-us-bof-survey-init)
 <div style="text-align:center;">
-  <img src="/img/Isc26_support_bof_initial_survey-Details.png" style="width: 280px;"/></a>
+  <img src="/img/isc26-us-bof-survey-init-qr.png" style="width: 280px;"/></a>
 </div>
 
-## Participate in the [follow-up survey](https://go.fzj.de/Isc26_support_bof_final_survey)
+## Participate in the [follow-up survey](https://go.fzj.de/isc26-us-bof-survey-fup)
 <div style="text-align:center;">
-  <img src="/img/Isc26_support_bof_final_survey-Details.png" style="width: 280px;"/></a>
+  <img src="/img/isc26-us-bof-survey-fup-qr.png" style="width: 280px;"/></a>
 </div>
 
 ## Organisers and speakers
