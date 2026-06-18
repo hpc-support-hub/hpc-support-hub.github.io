@@ -40,7 +40,7 @@ No preparation is required.
 
 ## Topics for discussion and designated leads
 <div style="text-align:center;">
-  <img src="/img/Table_topics.png" style="width: 800px;"/></a>
+  <img src="/img/Topic_leaders.png" style="width: 800px;"/></a>
 </div>
 
 ## Session structure and setup
