@@ -38,7 +38,7 @@ Please come ready to:
 
 No preparation is required.
 
-## Discussion topics
+## Topics for discussion and designated leads
 <div style="text-align:center;">
   <img src="/img/Table_topics.png" style="width: 800px;"/></a>
 </div>
