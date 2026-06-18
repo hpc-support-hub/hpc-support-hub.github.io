@@ -70,6 +70,16 @@ We aim to leave the session with:
 - a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
+## Participate in the [initial survey](https://go.fzj.de/Isc26_support_bof_initial_survey)**
+<div style="text-align:center;">
+  <img src="/img/Isc26_support_bof_initial_survey-Details.png" style="width: 280px;"/></a>
+</div>
+
+## Participate in the [follow-up survey](https://go.fzj.de/Isc26_support_bof_final_survey)**
+<div style="text-align:center;">
+  <img src="/img/Isc26_support_bof_final_survey-Details.png" style="width: 280px;"/></a>
+</div>
+
 ## Organisers and speakers
 - Thomas Breuer, Jülich Supercomputing Centre
 - Ilya Zhukov, Jülich Supercomputing Centre
@@ -81,3 +91,4 @@ We aim to leave the session with:
 - Gaurav Saxena, Barcelona Supercomputing Center
 - Emir Imamagić, University of Zagreb University Computing Centre (SRCE)
 - Virvatuli Uusimäki, CSC – IT Center for Science
+- Filipe Guimaraes, Jülich Supercomputing Centre
