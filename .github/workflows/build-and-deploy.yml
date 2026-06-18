@@ -26,7 +26,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Generate HTML from Markdown
         run: npx --yes single-page-markdown-website isc26_bof_user_support.md --output docs
