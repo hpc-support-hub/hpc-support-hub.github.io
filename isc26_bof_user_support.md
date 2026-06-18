@@ -38,14 +38,10 @@ Please come ready to:
 
 No preparation is required.
 
-## Main discussion themes
-Topics may include:
-- scaling support as demand and complexity grow
-- tooling, automation, and the role of AI in support
-- knowledge transfer, training, and skill development
-- managing expectations and defining support quality
-- cross-centre collaboration and shared practices
-- improving the visibility and recognition of support work
+## Discussion topics
+<div style="text-align:center;">
+  <img src="/img/Table_topics.png" style="width: 800px;"/></a>
+</div>
 
 ## Session structure and setup
 This is an interactive session with minimal formal presentation.
