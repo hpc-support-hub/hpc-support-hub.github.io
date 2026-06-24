@@ -66,7 +66,7 @@ We aim to leave the session with:
 - a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
-## Participate in the [initial survey](https://www.menti.com/albdp257yy9a)
+## Participate in the [initial survey](https://www.menti.com/alq2cjq5fagh)
 <div style="text-align:center;">
   <img src="/img/isc26-us-bof-survey-init-qr.png" style="width: 280px;"/></a>
 </div>
