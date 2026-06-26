@@ -70,7 +70,7 @@ We aim to leave the session with:
 <div style="text-align:center;">
   <img src="/img/isc26-us-bof-survey-init-qr.png" style="width: 280px;"/></a>
 </div>
-[Click here for results of the initial survey.](data/isc26_bof_user_support.pdf)
+[Click here for results of the initial survey.](/data/isc26_bof_user_support.pdf)
 
 ## Participate in the [follow-up survey](https://go.fzj.de/isc26-us-bof-survey-fup)
 <div style="text-align:center;">
