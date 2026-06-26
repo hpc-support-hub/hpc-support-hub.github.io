@@ -69,6 +69,8 @@ We aim to leave the session with:
 ## Participate in the [initial survey](https://www.menti.com/alq2cjq5fagh)
 <div style="text-align:center;">
   <img src="/img/isc26-us-bof-survey-init-qr.png" style="width: 280px;"/></a>
+</div>
+<div style="text-align:center;">
   <a href="/data/isc26_bof_user_support.pdf" alt="Click here for the results of the survey."/></a>
 </div>
 
