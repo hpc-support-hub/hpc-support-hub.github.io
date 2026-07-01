@@ -66,17 +66,11 @@ We aim to leave the session with:
 - a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
-## Participate in the [initial survey](https://www.menti.com/alq2cjq5fagh)
-<div style="text-align:center;">
-  <img src="/img/isc26-us-bof-survey-init-qr.png" style="width: 280px;"/></a>
-</div>
+### [Click here for the results of the initial survey.](https://hpc-support-hub.github.io/data/isc26_bof_user_support.pdf)
 
-[Click here for the results of the initial survey.](https://hpc-support-hub.github.io/data/isc26_bof_user_support.pdf)
+### [Click here for the table discussion notes.](https://hpc-support-hub.github.io/data/isc26_us_bof_notes.pdf)
 
-## Participate in the [follow-up survey](https://go.fzj.de/isc26-us-bof-survey-fup)
-<div style="text-align:center;">
-  <img src="/img/isc26-us-bof-survey-fup-qr.png" style="width: 280px;"/></a>
-</div>
+### [Click here for the resuts of the voting.](https://hpc-support-hub.github.io/data/isc26_us_bof_votes.pdf)
 
 ## Organisers and speakers
 - Thomas Breuer, Jülich Supercomputing Centre
