@@ -72,6 +72,8 @@ We aim to leave the session with:
 
 ### [Click here for the resuts of the voting.](https://hpc-support-hub.github.io/data/isc26_us_bof_votes.pdf)
 
+### [Click here for the blog post.](https://epicure-hpc.eu/2026/07/09/rethinking-hpc-user-support-for-ai-and-exascale-era/)
+
 ## Organisers and speakers
 - Thomas Breuer, Jülich Supercomputing Centre
 - Ilya Zhukov, Jülich Supercomputing Centre
