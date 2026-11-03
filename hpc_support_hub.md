@@ -38,16 +38,11 @@ This is an interactive session with minimal formal presentation.
 ### Structure
 1. **Introduction** – overview of goals, themes, and outcomes  
 2. **Live survey** – quick interactive survey to understand who is in the room and what challenges matter most  
-3. **Roundtable discussions** – small-group discussions focused on practical experiences and ideas  
-4. **Report back** – each table shares key takeaways  
-5. **Prioritisation and conclusion** – participants vote on promising ideas and discuss next steps
+3. **Parallel discussions** – small-group discussions focused on practical experiences and ideas  
+4. **Report back** – each group shares key takeaways  
+5. **Conclusion**
 
-### Session setup
-Tables will include:
-- a discussion handouts
-- markers
-- voting stickers
-
+### Session outcomes 
 We aim to leave the session with:
 - a shortlist of promising ideas and shared practices
 - documented insights from the discussions
@@ -55,6 +50,10 @@ We aim to leave the session with:
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
 ## Organisers and speakers
+- Haritha Siddabathuni Som, Argonne National Laboratory (ANL)
+- Rebecca Hartman-Baker, Lawrence Berkeley National Laboratory (LBNL)
+- Chris Fuson, Oak Ridge National Laboratory (ORNL)
+- Smita Darmora, University of Illinois Chicago
 - Thomas Breuer, Jülich Supercomputing Centre
 - Ilya Zhukov, Jülich Supercomputing Centre
 - Helena Vela Beltran, Do IT Now (Spain)
