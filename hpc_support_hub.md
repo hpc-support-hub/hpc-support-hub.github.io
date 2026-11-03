@@ -61,4 +61,4 @@ We aim to leave the session with:
 
 ## Past events
 
-### [ISC26](https://hpc-support-hub.github.io/archive/isc26.html)
+### [ISC26](https://hpc-support-hub.github.io/archive/isc26/index.html)
