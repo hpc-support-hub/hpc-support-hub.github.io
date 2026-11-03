@@ -1,22 +1,16 @@
-# ISC26 BoF: Rethinking HPC User Support for the AI and Exascale Era
+# SC26 BoF: HPC User Support in the AI and Exascale Era
 
 
 ##  Information for Participants
 
 ### When and where
-- **Time:** Thursday, June 25, 2026 2:15 PM to 3:15 PM CEST
-- **Location:** Hall F, 2nd Floor
+- **Time:** Thursday, 19 November 2026 12:15pm - 1:15pm CST
+- **Location:** W180
 
 ### What this session is about
-HPC user support is becoming more important than ever. As systems grow more complex and AI workflows become part of everyday HPC use, support teams are under increasing pressure to help larger and more diverse user communities effectively.
+As HPC enters an era of extreme heterogeneity and AI integration, user support is a critical strategic enabler. However, rising system complexity and finite staffing strain traditional models. To thrive in the AI and exascale era, a collaborative community approach is essential.
 
-This Birds of a Feather (BoF) session aims to bring together:
-- HPC user support practitioners
-- infrastructure providers
-- researchers and HPC users
-- participants from both research and industry
-
-Our goal is to exchange experiences, identify shared challenges, and explore practical ways to make HPC user support more sustainable, effective, and collaborative.
+This BoF session invites practitioners, providers, and users to collaboratively reshape HPC support. Featuring insights from facility leaders on managing rapid AI adoption, an interactive live survey, and open group discussions, participants will share experiences regarding scaling, AI automation, and knowledge transfer. Outcomes will form a post-conference report dedicated to fostering a sustainable, community-driven support ecosystem.
 
 ### Why join?
 This session is a chance to:
@@ -38,11 +32,6 @@ Please come ready to:
 
 No preparation is required.
 
-## Topics for discussion and designated leads
-<div style="text-align:center;">
-  <img src="/img/Topic_leaders.png" style="width: 800px;"/></a>
-</div>
-
 ## Session structure and setup
 This is an interactive session with minimal formal presentation.
 
@@ -59,30 +48,17 @@ Tables will include:
 - markers
 - voting stickers
 
-## Outcomes
 We aim to leave the session with:
 - a shortlist of promising ideas and shared practices
 - documented insights from the discussions
 - a starting point for a broader international HPC user support community
 - follow-up material shared after the conference, likely as a **white paper or blog post**
 
-### [Click here for the results of the initial survey.](https://hpc-support-hub.github.io/data/isc26_bof_user_support.pdf)
-
-### [Click here for the table discussion notes.](https://hpc-support-hub.github.io/data/isc26_us_bof_notes.pdf)
-
-### [Click here for the resuts of the voting.](https://hpc-support-hub.github.io/data/isc26_us_bof_votes.pdf)
-
-### [Click here for the blog post.](https://epicure-hpc.eu/2026/07/09/rethinking-hpc-user-support-for-ai-and-exascale-era/)
-
 ## Organisers and speakers
 - Thomas Breuer, Jülich Supercomputing Centre
 - Ilya Zhukov, Jülich Supercomputing Centre
-- Dominik Brands, University of Duisburg-Essen
 - Helena Vela Beltran, Do IT Now (Spain)
-- Laura Bellentani, CINECA
-- Marc-André Hermanns, IT Center, RWTH Aachen University
-- Alberto Lanzanova, CSC – IT Center for Science
-- Gaurav Saxena, Barcelona Supercomputing Center
-- Emir Imamagić, University of Zagreb University Computing Centre (SRCE)
-- Virvatuli Uusimäki, CSC – IT Center for Science
-- Filipe Guimaraes, Jülich Supercomputing Centre
+
+## Past events
+
+### [ISC26](https://hpc-support-hub.github.io/arcive/isc26.html)
