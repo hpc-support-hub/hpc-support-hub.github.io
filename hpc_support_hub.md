@@ -59,4 +59,5 @@ We aim to leave the session with:
 - Helena Vela Beltran, Do IT Now (Spain)
 
 ## Past events
+You can find information about similar events in the past below
 ### [ISC26](https://hpc-support-hub.github.io/archive/isc26/index.html)
