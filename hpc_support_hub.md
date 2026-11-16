@@ -42,6 +42,16 @@ This is an interactive session with minimal formal presentation.
 4. **Report back** – each group shares key takeaways  
 5. **Conclusion**
 
+### Structure of parallel discussions
+We suggest the following structure:
+- Form small groups of 4–6 people.
+- Introduce yourself briefly (name, organisation, role).
+- Discuss: Does any of the introduced challenges resonate with you, or do you have something else in mind? Pick one or two for deeper discussion.
+- Discuss: For the selected challenges, are there any workarounds or solutions already in place in your organisation?
+- Discuss: what else can/should be done?
+- Add your notes to the form ([*CLICK HERE*](https://forms.gle/qSqg8G8G6rkPMdCT6).
+- Submit the form once you have reported back.
+
 ### Session outcomes 
 We aim to leave the session with:
 - a shortlist of promising ideas and shared practices
