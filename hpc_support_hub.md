@@ -49,7 +49,7 @@ We suggest the following structure:
 - Discuss: Does any of the introduced challenges resonate with you, or do you have something else in mind? Pick one or two for deeper discussion.
 - Discuss: For the selected challenges, are there any workarounds or solutions already in place in your organisation?
 - Discuss: what else can/should be done?
-- Add your notes to the form ([*CLICK HERE*](https://forms.gle/qSqg8G8G6rkPMdCT6).
+- Add your notes to the form ([*CLICK HERE*](https://forms.gle/qSqg8G8G6rkPMdCT6)).
 - Submit the form once you have reported back.
 
 ### Session outcomes 
