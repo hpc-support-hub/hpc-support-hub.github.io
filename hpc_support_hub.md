@@ -37,18 +37,19 @@ This is an interactive session with minimal formal presentation.
 
 ### Structure
 1. **Introduction** – overview of goals, themes, and outcomes  
-2. **Live survey** – quick interactive survey to understand who is in the room and what challenges matter most  
-3. **Parallel discussions** – small-group discussions focused on practical experiences and ideas  
-4. **Report back** – each group shares key takeaways  
-5. **Conclusion**
+2. **Live survey** – quick interactive survey to understand who is in the room and what challenges matter most
+3. **Lightning topics** – we have prepared several topics that we feel are important to discuss/address/  
+4. **Parallel discussions** – small-group discussions focused on practical experiences and ideas  
+5. **Report back** – each group shares key takeaways  
+6. **Conclusion**
 
 ### Structure of parallel discussions
 We suggest the following structure:
 - Form small groups of 4–6 people.
 - Introduce yourself briefly (name, organisation, role).
-- Discuss: Does any of the introduced challenges resonate with you, or do you have something else in mind? Pick one or two for deeper discussion.
-- Discuss: For the selected challenges, are there any workarounds or solutions already in place in your organisation?
-- Discuss: what else can/should be done?
+- Discuss: Does any of the introduced topics resonate with you, or do you have something else in mind? Pick one or two for deeper discussion.
+- Discuss: For the selected topics, are there any workarounds or solutions already in place in your organisation?
+- Discuss: What else can/should be done?
 - Add your notes to the form ([*CLICK HERE*](https://forms.gle/qSqg8G8G6rkPMdCT6)).
 - Submit the form once you have reported back.
 
