@@ -38,7 +38,7 @@ This is an interactive session with minimal formal presentation.
 ### Structure
 1. **Introduction** – overview of goals, themes, and outcomes  
 2. **Live survey** – quick interactive survey to understand who is in the room and what challenges matter most
-3. **Lightning topics** – we have prepared several topics that we feel are important to discuss/address/  
+3. **Lightning topics** – we have prepared several topics that we feel are important to discuss/address  
 4. **Parallel discussions** – small-group discussions focused on practical experiences and ideas  
 5. **Report back** – each group shares key takeaways  
 6. **Conclusion**
